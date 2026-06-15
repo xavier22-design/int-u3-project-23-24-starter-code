@@ -11,7 +11,12 @@
 .option-one-two-end2,
 .option-one-one-end,
 .option-one-one-end2,
-.option-one
+.option-one,
+.option-two,
+.option-one-one,
+.option-one-two,
+.help,
+.me
 {
    display:none;
 }
@@ -104,7 +109,11 @@ button:hover {
 .option-one-end img,
 .option-two-end img,
 .option-two-end2 img,
-.option-one-end2 img {
+.option-one-end2 img,
+.option-one-two-end img,
+.option-one-two-end2 img,
+.option-one-one-end img,
+.option-one-one-end2 img {
     max-width: 100%;
     height: auto;
     margin-bottom: 10px;
@@ -116,7 +125,11 @@ button:hover {
 .option-one-end h1,
 .option-two-end h1,
 .option-two-end2 h1,
-.option-one-end2 h1 {
+.option-one-end2 h1,
+.option-one-two-end h1,
+.option-one-two-end2 h1,
+.option-one-one-end h1,
+.option-one-one-end2 h1 {
     font-size: 20px;
     margin-bottom: 20px;
 }
